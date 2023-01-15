@@ -1,0 +1,13 @@
+h1{
+    color: rgb(253, 80, 132);
+}
+body {
+    /* background-color: rgb(251, 212, 212); */
+    font-family: Arial, sans-serif;
+    padding-top: 200px;
+    padding-bottom: 250px;
+    padding-left: 650px;
+    background: linear-gradient(70deg, rgb(255, 255, 255), rgb(255, 255, 255), rgba(117, 230, 203, 0.773),rgb(213, 155, 228), rgb(255, 255, 255), rgb(255, 255, 255));
+
+
+}
